@@ -44,7 +44,7 @@
 ## 3. **Políticas de la Empresa**  
 
 ## 4. **Diagrama de Flujo** 
-![diagramaCaldenAgraria](https://www.figma.com/file/qDQVIRhaxEfW0obJtIevqn/BLP?type=whiteboard&node-id=0%3A1&t=Astjn2sTDe2k7Oq5-1)
+![diagramaCA]()
 ## 5. **Modelo de Datos**  
 ![DER]()
 ## 6. **Tecnologías**
